@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    outline: 1px solid red;
 
 }
 
@@ -39,6 +40,14 @@ img{
     border: 5px solid black;
 }
 
+a{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    padding: auto;
+
+}
+
 
 li{
     margin: 10px;
@@ -51,6 +60,3 @@ h2{
     text-align: center;
 }
 
-.adobocontainer{
-    background-color: green;
-}
